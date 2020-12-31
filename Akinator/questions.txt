@@ -1,0 +1,130 @@
+
+1B
+Alive
+Male
+/
+2A1
+Real
+/
+3B11
+Asian
+South-American
+Latin
+Canadian
+European
+African
+American
+Black
+Legendary
+/
+3B10
+Child
+Strong
+Princess
+Superhero
+Creature
+Animated
+Likeable
+Funny
+/
+4A111
+Athlete
+Entertainer
+Scientist
+Politician
+Model
+Artist
+Military Leader
+Host
+Ruler
+Businessman
+Writer
+
+/
+5A11101
+Musician
+Actor
+Influencer
+Comedian
+Model
+/
+5C1111
+Soccer Player
+Basketball Player
+Baseball Player
+Hockey Player
+Tennis Player
+Golf Player
+Football Player
+Boxer
+/
+6B111011
+Pop
+Country
+R&B
+Rap
+Classical
+Reggae
+Jazz
+K-Pop
+Rock
+Indie
+Afrobeat
+Blues
+/
+6B11101001
+TikTok
+Youtube
+Twitch
+Instagram
+/
+6B1110101
+MCU
+Action
+Comedy
+Drama
+TV
+Horror
+Thriller
+Children
+Romance 
+/
+5B111001
+Nobel
+Physicist
+Biologist
+Astronomer
+Chemist
+Psychologist
+Philosopher
+Mathematician
+Engineer
+/
+5C1110001
+Left
+Right
+Center
+/
+6B1110001
+Ran for Office
+Commentator
+/
+5B11100000001
+Sports
+Entertainment
+News
+Education
+/
+4B101
+TV Show
+Movie
+Novel
+Manga
+Children's Book
+Comic Book
+Anime
+Disney
+/
+5C1011
+Protagonist
+Antagonist

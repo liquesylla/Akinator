@@ -1,0 +1,958 @@
+Michael B Jordan
+Alive
+Real
+Male
+Entertainer
+Actor
+American
+MCU
+Action
+Drama
+Black
+/
+Gon Freecs
+Male
+Alive
+Strong
+Child
+Likeable
+Animated
+Manga
+TV Show
+Anime
+Protagonist
+/
+Killua Zoldyck
+Male
+Alive
+Child
+Strong
+Manga
+Likeable
+Animated
+TV Show
+Anime
+HxH
+Protagonist
+/
+Cristiano Ronaldo
+Real
+Male
+Athlete
+Soccer Player
+Superstar
+Legendary
+Alive
+/
+Lionel Messi
+Real
+Male
+Athlete
+Soccer Player
+Superstar
+Legendary
+Alive
+/
+Michael Jordan
+Real
+Male
+Black
+American
+Athlete
+Basketball Player
+Superstar
+Legendary
+Alive
+/
+Lebron James
+Real
+Male
+Black 
+American
+Athlete
+Basketball Player
+Superstar
+Legendary
+Alive
+/
+Michael Jackson
+Real
+Male
+Black
+American
+Entertainer
+Musician
+Pop
+R&B
+Rock
+Legendary
+/
+Sidney Crosby
+Alive
+Real
+Male
+Athlete
+Canadian
+Hockey Player
+Legendary
+/
+Kawhi Leonard
+Alive
+Male
+Real
+Black
+American
+Athlete
+Basketball Player
+/
+Napoleon Bonaparte
+Male
+Real
+European
+Military Leader
+/
+Justin Bieber
+Alive
+Male
+Real
+Canadian
+Entertainer
+Musician
+Pop
+/
+Katy Perry
+Alive
+Real
+American
+Entertainer
+Musician
+Pop
+/
+Billie Eilish
+Alive
+Real
+American
+Entertainer
+Musician
+Pop
+Indie
+/
+Selena Gomez
+Alive
+Real
+American
+Entertainer
+Musician
+Actor
+Pop
+Comedy
+TV
+/
+Beyonce
+Alive
+Real
+American
+Black
+Legendary
+Entertainer
+Musician 
+Pop
+/
+Drake
+Alive
+Real
+Male
+Canadian
+Black
+Legendary
+Entertainer
+Musician
+Actor
+Pop
+Rap
+Drama
+/
+Joji
+Real
+Alive
+Male
+Asian
+American
+Entertainer
+Musician
+Pop
+R&B
+Indie
+/
+Charli D'Amelio
+Real
+Alive
+American
+Entertainer
+Influencer
+TikTok
+Instagram
+Youtube
+/
+Pablo Picasso
+Real
+Male
+European
+Artist
+/
+Bill Nye
+Alive
+Real
+Male
+American
+Actor
+TV
+Host
+Education
+/
+Albert Einstein
+Real
+Male
+European
+Legendary
+Scientist
+Physicist
+Nobel
+/
+Donald Trump
+Real
+Alive
+Male
+American
+Politician
+Businessman
+Right
+Ran for Office
+/
+Barack Obama
+Real
+Alive
+Male
+American
+Black
+Politician
+Left
+Ran for Office
+/
+Neymar
+Real
+Alive
+Male
+Legendary
+South-American
+Black
+Athlete
+Soccer Player
+/
+Serena Williams
+Alive
+Real
+Black
+American
+Legendary
+Athlete
+Tennis Player
+/
+Ludwig Van Beethoven
+Real
+Male
+European
+Legendary
+Entertainer
+Musician
+Classical
+an Artist
+/
+Cleopatra
+Real
+African
+Black
+Ruler
+/
+Superman
+Alive
+Male
+Strong
+Animated
+Likeable
+TV Show
+Superhero
+Movie
+Comic Book
+Protagonist
+/
+Batman
+Alive
+Male
+Strong
+Animated
+Likeable
+TV Show
+Movie
+Comic Book
+Protagonist
+/
+Sleeping Beauty
+Alive
+Princess
+Animated
+Likeable
+Children's Book
+Movie
+Disney
+Protagonist
+/
+Princess Tiana
+Alive
+Princess
+Animated
+Likeable
+Children's Book
+Movie
+Disney
+Protagonist
+/
+Harry Potter
+Alive
+Male
+Child
+Strong
+Movie
+Novel
+Protagonist
+/
+Chris Cuomo
+Real
+Alive
+Male
+American
+Host
+News
+/
+Logan Paul
+Real
+Alive
+Male
+American
+Entertainer
+Influencer
+Youtube
+Actor
+Comedy
+/
+Kim Jong Un
+Real
+Alive
+Male
+Asian
+Ruler
+Military Leader
+/
+Neil De Grasse Tyson
+Real
+Alive
+Male
+Black
+American
+Scientist
+Physicist
+Astronomer
+/
+Mike Tyson
+Real
+Alive
+Male
+Black
+American
+Athlete
+Boxer
+Legendary
+/
+Jay Z
+Real
+Alive
+Male
+Black
+American
+Entertainer
+Musician
+Rap
+Businessman
+/
+King Tut
+Real
+Male
+Black
+African
+Ruler
+/
+Robert Downey Jr.
+Male
+Alive
+Real
+American
+Entertainer
+Actor
+MCU
+Action 
+/
+Anne Hathaway
+Real
+Alive
+American
+Entertainer
+Actor
+Drama
+Comedy
+Action
+TV
+/
+Jennifer Aniston
+Real
+Alive
+American
+Entertainer
+Actor
+Legendary
+Comedy
+TV
+/
+Scarlet Johansson
+Real
+Alive
+American
+Entertainer
+Actor
+Comedy
+MCU
+Action
+Drama
+/
+Denzel Washington
+Real
+Male
+Alive
+American
+Black
+Legendary
+Entertainer
+Actor
+Action
+Drama
+Thriller
+/
+Margot Robbie
+Real
+Alive
+Entertainer
+Actor
+Drama
+Comedy
+Action
+/
+Boris Johnson
+Real
+Alive
+Male
+European
+Politician
+Right
+Ran for Office
+/
+Leonardo Di Caprio
+Real
+Alive
+Male
+American
+Entertainer
+Actor
+Drama
+Comedy
+Action
+Thriller
+/
+Angelina Jolie
+Real
+Alive
+American
+Entertainer
+Actor
+Drama
+Comedy
+Action
+Thriller
+Children
+/
+Dwayne Johnson
+Real
+Alive
+Male
+Black
+Legendary
+American
+Athelete
+Entertainer
+Actor
+Action
+Comedy
+Thriller
+/
+Taylor Swift
+Real
+Alive
+American
+Entertainer
+Musician
+Pop
+Country
+/
+Tiger Woods
+Real
+Alive
+Black
+Male
+American
+Legendary
+Golf Player
+Athlete
+/
+Tom Brady
+Male
+Alive
+Real
+American
+Legendary
+Athlete
+Football Player
+/
+Steve Nash
+Male
+Alive
+Real
+Canadian
+Athlete
+Basketball Player
+/
+Peyton Manning
+Real
+Alive
+Male
+American
+Legendary
+Athlete
+Football Player
+/
+Odell Beckham Jr.
+Male
+Alive
+Real
+Black
+American
+Athlete
+Football Player
+/
+Michael Phelps
+Male
+Alive
+American
+Real
+Legendary
+Athlete
+/
+Floyd Mayweather Jr.
+Male
+Alive
+American
+Black
+Real
+Legendary
+Athlete
+/
+Jeremy Lin
+Real
+Alive
+Male
+American
+Asian
+Athlete
+Basketball Player
+/
+Anthony Joshua
+Male
+Real
+Alive
+European
+Black
+Legendary
+Athlete
+Boxer
+/
+Tom Hanks
+Male
+Real
+Alive
+American
+Legendary
+Entertainer
+Actor
+Comedy
+Drama
+Action
+Thriller
+Children
+/
+Tom Cruise
+Male
+Real
+Alive
+American
+Legendary
+Entertainer
+Actor
+Action
+Thriller
+Drama
+/
+Keanu Reeves
+Alive
+Male
+Real
+American
+Legendary
+Entertainer
+Actor
+Action
+Thriller
+Comedy
+/
+Brad Pitt
+American
+Real
+Alive
+Male
+Legendary
+Entertainer
+Actor
+Action
+Comedy
+Drama
+Thriller
+Romance
+/
+Will Smith
+Real
+Alive
+American
+Male
+Black
+Legendary
+Entertainer
+Musician
+Actor
+Rap
+Thriller
+Action
+Comedy
+TV
+Drama
+Children
+/
+Jackie Chan
+Real
+Alive
+Male
+Legendary
+Asian
+Entertainer
+Actor
+Action
+Thriller
+Comedy 
+Children
+/
+Bruce Lee
+Real
+Male
+Asian
+American
+Legendary
+Entertainer
+Actor
+Action
+Thriller
+/
+Adam Sandler
+Male
+Alive
+Real
+American
+Legendary
+Entertainer
+Comedian
+Actor
+Comedy
+Action
+Drama
+Children
+/
+William Shakespeare
+Real
+Male
+European
+Legendary
+Artist
+Writer
+/
+Abraham Lincoln
+Real
+Male
+American
+Legendary
+Politician
+Right
+Ran for Office
+/
+Martin Luther King Jr.
+Real
+Male
+American
+Black
+Legendary
+/
+Vincent Van Gogh
+Real
+Male
+European
+Legendary
+Artist
+/
+John F.Kennedy
+Male
+Real
+American
+Legendary
+Politician
+Left
+Ran for Office
+/
+Michael Scott
+Alive
+Male
+Funny
+TV Show
+Protagonist
+/
+Captain America
+Alive
+Male
+Strong
+Animated
+TV Show
+Likeable
+Movie
+Comic Book
+Disney
+Superhero
+Protagonist
+/
+Sherlock Holmes
+Male
+Alive
+Strong
+TV Show
+Movie
+Novel
+Protagonist
+/
+Captain Jack Sparrow
+Male
+Alive
+Movie
+Disney
+Protagonist
+/
+Darth Vader
+Male
+Alive
+Strong
+TV Show
+Movie
+Disney
+Animated
+Antagonist
+/
+James Bond
+Alive
+Male
+Movie
+Protagonist
+Strong
+/
+Gandalf
+Male
+Strong
+Likeable
+Novel
+Movie
+Protagonist
+/
+Iron Man
+Male
+Alive
+Strong
+Superhero
+Animated
+Movie
+TV Show
+Comic Book
+Protagonist
+Disney
+/
+Joker
+Male
+Alive
+Strong
+Animated
+Movie
+TV Show
+Comic Book
+Antagonist
+/
+Yoda
+Male
+Alive
+Strong
+Likeable
+Creature
+Animated
+Funny
+TV Show
+Movie
+Disney
+Protagonist
+/
+Shrek
+Male
+Alive
+Funny
+Likeable
+Strong
+Animated
+Creature
+Movie
+Protagonist
+/
+SpongeBob
+Male
+Alive
+Funny
+Animated
+Likeable
+Creature
+Movie
+TV Show
+Protagonist
+/
+Garfield
+Male
+Alive
+Funny
+Likeable
+TV Show
+Movie
+Comic Book
+Animated
+Creature
+Protagonist
+/
+Bugs Bunny
+Male
+Alive
+Funny
+Likeable
+Animated
+TV Show 
+Movie
+Creature
+Protagonist
+/
+Mickey Mouse
+Male
+Alive
+Funny
+Likeable
+Animated
+TV Show
+Movie
+Creature
+Protagonist
+Disney
+/
+Charlie Brown
+Male
+Alive
+Funny
+Likeable
+Animated
+Movie
+Comic Book
+Protagonist
+/
+Jay Gatsby
+Male
+Likeable
+Novel
+Protagonist
+/
+Cinderella
+Alive
+Princess
+Likeable
+Animated
+Movie
+Disney
+Children's Book
+Protagonist
+/
+Greg Heffley
+Male
+Alive
+a Child
+Comic Book
+Movie
+Novel
+Protagonist
+/
+Spiderman
+Alive
+Male
+Strong
+Superhero
+Funny
+Child
+Animated
+TV Show
+Movie
+Comic Book
+Disney
+Protagonist
+/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
